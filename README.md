@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# CodeRise 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**CodeRise** — это открытый проект, созданный для экстренной помощи начинающим ̶б̶е̶д̶о̶л̶а̶г̶а̶м̶ (разработчикам), которые хотят начать свой путь в IT, но не знают, что делать если курсы закончились а оффера так и нет. Оставь надежду, всяк сюда входящий.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## **Цель проекта**
 
-### `npm start`
+Мы хотим сделать старт в IT более "адекватным" и понятным. CodeRise — это:
+- 📚 **Полезные материалы**: статьи, книги, курсы и видео.
+- 💻 **Примеры кода**: готовые проекты и шаблоны для изучения.
+- 🛠️ **Инструменты**: подборки инструментов, которые помогут в разработке.
+- 🤝 **Сообщество**: место, где можно задать вопросы и получить  ̶п̶о̶д̶д̶е̶р̶ж̶к̶у̶  пинка для рывка.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Как использовать этот проект**
 
-### `npm test`
+1. **Изучи материалы**: Перейди в папку [docs](/docs), там ничего нет.
+2. **Используй примеры кода**: В папке [examples](/examples) ты найдёшь  ̶г̶о̶т̶о̶в̶ы̶е̶ ̶п̶р̶о̶е̶к̶т̶ы̶  ничего.
+3. **Внеси свой вклад**: Если у тебя есть полезные материалы или идеи, ты можешь предложить их через Pull Request.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## **Как внести свой вклад**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Мы рады любым contributions! Вот как ты можешь помочь:
+1. **Сообщи об ошибке**: Если ты нашёл ошибку, создай [Issue](https://github.com/DanilMochalov/CodeRise/issues).
+2. **Предложи улучшение**: Если у тебя есть идея, как улучшить проект, создай Issue или Pull Request.
+3. **Добавь материалы**: Если у тебя есть полезные ресурсы, добавь их в соответствующие папки и создай Pull Request.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Правила contributions**
+- Перед внесением изменений убедись, что твои материалы соответствуют тематике проекта.
+- Следуй [гайдлайнам по оформлению кода](/CONTRIBUTING.md).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## **Установка и запуск**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Клонируй репозиторий:
+   ```bash
+   git clone https://github.com/DanilMochalov/CodeRise.git
+   ```
+2. Перейди в папку проекта:
+   ```bash
+   cd CodeRise
+   ```
+3. Установи зависимости:
+   ```bash
+   npm install
+   ```
+4. Запусти проект:
+   ```bash
+   npm start
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## **Лицензия**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Этот проект распространяется под лицензией [MIT](/LICENSE). Это значит, что ты можешь свободно использовать, изменять и распространять код, но с указанием авторства.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## **Автор**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👤 **Данила Мочалов**  
+- GitHub: [DanilMochalov](https://github.com/DanilMochalov)  
+- Email: mochalovdy@yandex.ru 
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## **Благодарности**
 
-### Analyzing the Bundle Size
+Спасибо всем, кто поддерживает этот проект и помогает делать его лучше! 💪
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## **Как поддержать проект**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Если тебе нравится проект, ты можешь:
+- ⭐ Поставить звезду на GitHub.
+- 🐞 Сообщать об ошибках и предлагать улучшения.
+- 💬 Рассказать о проекте  ̶д̶р̶у̶г̶и̶м̶ ̶б̶е̶д̶о̶л̶а̶г̶а̶м̶  друзьям и коллегам.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**CodeRise** — это проект для всех, кто хочет начать свой путь в IT. Терпи! 🚀
